@@ -93,23 +93,11 @@ Aplicación enfocada en la administración de una cafetería utilizando tecnolog
 
 <hr>
 
-<h2>📈 Estadísticas de GitHub</h2>
+## 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MarcoAntonioDamianOrtiz&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoAntonioDamianOrtiz&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAntonioDamianOrtiz&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
-<hr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAntonioDamianOrtiz&layout=compact&theme=tokyonight&hide_border=true)
 
 <h2>📫 Contacto</h2>
 
