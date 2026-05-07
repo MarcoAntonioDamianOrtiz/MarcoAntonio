@@ -1,99 +1,127 @@
-# 👨‍💻 Marco Antonio Damian Ortiz
+<h1 align="center">👨‍💻 Marco Antonio Damian Ortiz</h1>
 
-¡Hola! Soy estudiante y desarrollador de software apasionado por la tecnología y el desarrollo web.  
-Me gusta crear aplicaciones modernas, escalables y funcionales utilizando diferentes tecnologías tanto en frontend como backend.
+<p align="center">
+  Estudiante y desarrollador de software apasionado por el desarrollo web y las tecnologías modernas.
+</p>
 
----
+<hr>
 
-# 🚀 Sobre mí
+<h2>🚀 Sobre mí</h2>
 
-- 💻 Desarrollador enfocado en aplicaciones web
-- 📚 Aprendiendo constantemente nuevas tecnologías
-- 🔥 Interesado en desarrollo Full Stack
-- ⚡ Experiencia trabajando con APIs y bases de datos
-- 🛠️ Desarrollo de proyectos académicos y personales
-- ☕ Actualmente desarrollando un sistema de cafetería con integración de APIs
+<ul>
+  <li>💻 Desarrollador enfocado en aplicaciones web</li>
+  <li>📚 Aprendiendo constantemente nuevas tecnologías</li>
+  <li>🔥 Interesado en desarrollo Full Stack</li>
+  <li>⚡ Experiencia trabajando con APIs y bases de datos</li>
+  <li>🛠️ Desarrollo de proyectos académicos y personales</li>
+  <li>☕ Actualmente desarrollando un sistema de cafetería con integración de APIs</li>
+</ul>
 
----
+<hr>
 
-# 🧠 Tecnologías y Herramientas
+<h2>🧠 Tecnologías y Herramientas</h2>
 
-## 🎨 Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h3>🎨 Frontend</h3>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-## ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<h3>⚙️ Backend</h3>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>
 
-## 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+<h3>🗄️ Bases de Datos</h3>
 
----
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white">
+</p>
 
-## 🛠️ Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<h3>🛠️ Herramientas</h3>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
 
-# ☕ Proyecto Destacado
+<hr>
 
-## Sistema de Cafetería Inteligente
+<h2>☕ Proyecto Destacado</h2>
 
+<h3>Sistema de Cafetería Inteligente</h3>
+
+<p>
 Aplicación enfocada en la administración de una cafetería utilizando tecnologías modernas.
+</p>
 
-### 🔹 Características
-- Gestión de productos y ventas
-- Integración de APIs
-- Control de inventario
-- Sistema de usuarios
-- Manejo de pedidos
-- Base de datos optimizada
-- Panel administrativo
+<h4>🔹 Características</h4>
 
-### 🔹 Tecnologías utilizadas
-- Vue.js / React
-- TypeScript
-- Node.js
-- Firebase
-- PostgreSQL
-- SQL
-- Redis
+<ul>
+  <li>Gestión de productos y ventas</li>
+  <li>Integración de APIs</li>
+  <li>Control de inventario</li>
+  <li>Sistema de usuarios</li>
+  <li>Manejo de pedidos</li>
+  <li>Base de datos optimizada</li>
+  <li>Panel administrativo</li>
+</ul>
 
----
+<h4>🔹 Tecnologías utilizadas</h4>
 
-# 📈 Estadísticas de GitHub
+<ul>
+  <li>Vue.js / React</li>
+  <li>TypeScript</li>
+  <li>Node.js</li>
+  <li>Firebase</li>
+  <li>PostgreSQL</li>
+  <li>SQL</li>
+  <li>Redis</li>
+</ul>
+
+<hr>
+
+<h2>📈 Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoAntonioDamianOrtiz&theme=github_dark" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MarcoAntonioDamianOrtiz&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcoAntonioDamianOrtiz&theme=github_dark" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAntonioDamianOrtiz&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
----
 
-# 📫 Contacto
+<hr>
 
-- 📧 Email: tucorreo@gmail.com
-- 💼 GitHub: https://github.com/MarcoAntonioDamianOrtiz
+<h2>📫 Contacto</h2>
 
----
+<ul>
+  <li>📧 Email: tucorreo@gmail.com</li>
+  <li>💼 GitHub: <a href="https://github.com/MarcoAntonioDamianOrtiz">MarcoAntonioDamianOrtiz</a></li>
+</ul>
 
-# ✨ Frase
+<hr>
 
-> "El software no solo resuelve problemas, también crea oportunidades."
+<h2>✨ Frase</h2>
+
+<blockquote>
+  "El software no solo resuelve problemas, también crea oportunidades."
+</blockquote>
