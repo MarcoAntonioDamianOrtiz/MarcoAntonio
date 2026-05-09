@@ -49,7 +49,7 @@ Egresado TSU en Desarrollo de Software • Edad 20 años
 <td><b>Frontend</b></td>
 <td>
 
-<img src="https://skillicons.dev/icons?i=vue,react"/>
+<img src="https://skillicons.dev/icons?i=vue,react,bootstrap,tailwind"/>
 
 <img src="https://img.shields.io/badge/Vue_Router-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 
