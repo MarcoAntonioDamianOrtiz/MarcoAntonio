@@ -1,119 +1,190 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Marco%20Antonio%20Damian%20Ortiz&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Marco%20Antonio%20Damian%20Ortiz&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👨‍💻 Desarrollador Full Stack</h1>
+<h1 align="center">👨‍💻 Web & Mobile Developer</h1>
 
 <p align="center">
-  Estudiante y desarrollador apasionado por la tecnología, el desarrollo web y las aplicaciones modernas.
+Estudiante de Ingeniería en Gestión y Desarrollo de Software • UTT Tlaxcala 🇲🇽
 </p>
 
 <p align="center">
-  <a href="https://github.com/MarcoAntonioDamianOrtiz">
-    <img src="https://img.shields.io/github/followers/MarcoAntonioDamianOrtiz?label=Followers&style=for-the-badge"/>
-  </a>
+Egresado TSU en Desarrollo de Software • 20 años
 </p>
-
----
-
-<h2>🚀 Sobre mí</h2>
-
-<ul>
-  <li>💻 Desarrollo de aplicaciones web modernas</li>
-  <li>🔥 Enfocado en desarrollo Full Stack</li>
-  <li>⚡ Integración de APIs y servicios externos</li>
-  <li>🛠️ Experiencia con frontend y backend</li>
-  <li>📚 Aprendiendo constantemente nuevas tecnologías</li>
-  <li>☕ Desarrollo de sistema de cafetería inteligente</li>
-</ul>
-
----
-
-<h2>🧠 Tecnologías</h2>
-
-<h3>🎨 Frontend</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,react,ts,js,html,css" />
-</p>
-
-<h3>⚙️ Backend</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,java" />
-</p>
-
-<h3>🗄️ Bases de Datos</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,redis" />
-</p>
-
-<h3>🛠️ Herramientas</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-<h2>☕ Proyecto Destacado</h2>
-
-<h3>Sistema de Cafetería Inteligente</h3>
-
-<p>
-Sistema de administración de cafetería con integración de APIs y tecnologías modernas.
-</p>
-
-<h4>🔹 Funciones</h4>
-
-<ul>
-  <li>📦 Gestión de inventario</li>
-  <li>💳 Administración de ventas</li>
-  <li>👥 Sistema de usuarios</li>
-  <li>📊 Panel administrativo</li>
-  <li>⚡ Integración de APIs</li>
-  <li>🗄️ Optimización de base de datos</li>
-</ul>
-
-<h4>🔹 Tecnologías Utilizadas</h4>
-
-<p>
-  Vue.js • React • TypeScript • Node.js • Firebase • PostgreSQL • SQL • Redis
-</p>
-
----
-
-<h2 align="center">📈 Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarcoAntonioDamianOrtiz&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcoAntonioDamianOrtiz&layout=compact&theme=tokyonight"/>
+  <img src="https://img.shields.io/github/followers/MarcoAntonioDamianOrtiz?style=for-the-badge&color=0891b2"/>
+  <img src="https://img.shields.io/github/stars/MarcoAntonioDamianOrtiz?style=for-the-badge&color=f59e0b"/>
 </p>
 
 ---
 
-<h2>📫 Contacto</h2>
+# 🚀 About Me
 
-<p>
-  📧 Email: tucorreo@gmail.com
-</p>
+- 💻 Desarrollo de aplicaciones web modernas
+- 📱 Desarrollo móvil con Flutter
+- 🎨 Diseño UX/UI con Figma y Adobe XD
+- ⚡ Integración de APIs y servicios externos
+- 🗺️ Experiencia con Mapbox y Geocercas
+- ☕ Sistemas administrativos y cafeterías inteligentes
+- ☁️ Deploy y dominios con Vercel y Google Cloud
+- 📚 Aprendiendo constantemente nuevas tecnologías
 
-<p>
-  💼 GitHub:
-  <a href="https://github.com/MarcoAntonioDamianOrtiz">
-    MarcoAntonioDamianOrtiz
-  </a>
+---
+
+# 🛠️ Languages and Tools
+
+<table>
+
+<tr>
+<td><b>Languages</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,html,css"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=vue,react"/>
+
+<img src="https://img.shields.io/badge/Vue_Router-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=django,nodejs"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Mobile</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb,redis"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>UI / UX</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Cloud & Tools</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Formspree-E5122E?style=for-the-badge&logo=formspree&logoColor=white"/>
+
+</td>
+</tr>
+
+</table>
+
+---
+
+
+# 📊 GitHub Stats
+
+### ⭐ Commits ⭐
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MarcoAntonioDamianOrtiz&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<h2>✨ Frase</h2>
+### ⭐ GitHub Statistics ⭐
 
-<blockquote>
-  "El software no solo resuelve problemas, también crea oportunidades."
-</blockquote>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoAntonioDamianOrtiz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
+
+---
+
+### ⭐ Most Used Languages ⭐
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAntonioDamianOrtiz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
+
+---
+
+# ☕ Featured Projects
+
+## 🔹 Smart Cafeteria System
+
+- Gestión de productos
+- Inventario
+- Panel administrativo
+- APIs externas
+- Optimización de bases de datos
+
+---
+
+## 🗺️ Geolocation & Maps Projects
+
+- Geocercas
+- Mapbox
+- APIs de ubicación
+- Formularios dinámicos
+- Visualización de datos
+
+---
+
+# 📫 Connect with me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/marco-antonio-dami%C3%A1n-ortiz-b90846317">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/marco117875/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:mo27marco@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ✨ Frase 
+
+> "El software no solo resuelve problemas, también crea oportunidades."
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
