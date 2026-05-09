@@ -188,7 +188,7 @@ Egresado TSU en Desarrollo de Software • Edad 20 años
 
 ---
 
-# ✨ Frase 
+# ✨ Frase Motivacional
 
 > "El software no solo resuelve problemas, también crea oportunidades."
 
