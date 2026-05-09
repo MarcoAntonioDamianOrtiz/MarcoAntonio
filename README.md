@@ -9,7 +9,7 @@ Estudiante de Ingeniería en Gestión y Desarrollo de Software • UTT Tlaxcala 
 </p>
 
 <p align="center">
-Egresado TSU en Desarrollo de Software • 20 años
+Egresado TSU en Desarrollo de Software • Edad 20 años
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ Egresado TSU en Desarrollo de Software • 20 años
 ### ⭐ Commits ⭐
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarcoAntonioDamianOrtiz&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=MarcoAntonioDamianOrtiz&theme=tokyonight&hide_border=true&locale=es"/>
 </p>
 
 ---
@@ -127,7 +127,12 @@ Egresado TSU en Desarrollo de Software • 20 años
 ### ⭐ GitHub Statistics ⭐
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcoAntonioDamianOrtiz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoAntonioDamianOrtiz&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcoAntonioDamianOrtiz&theme=tokyonight&utcOffset=-6"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoAntonioDamianOrtiz&theme=tokyonight"/>
 </p>
 
 ---
@@ -135,7 +140,8 @@ Egresado TSU en Desarrollo de Software • 20 años
 ### ⭐ Most Used Languages ⭐
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAntonioDamianOrtiz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcoAntonioDamianOrtiz&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcoAntonioDamianOrtiz&theme=tokyonight"/>
 </p>
 
 ---
